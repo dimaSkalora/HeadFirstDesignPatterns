@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_2-Observer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_3_Decorator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_4-Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_5-Singleton" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
