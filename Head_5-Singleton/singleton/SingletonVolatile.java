@@ -1,4 +1,4 @@
-package classical_singleton;
+package singleton;
 
 public class SingletonVolatile {
     //Статическая переменая для хранения единственого экземпляра
