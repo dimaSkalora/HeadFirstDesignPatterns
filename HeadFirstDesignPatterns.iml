@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_5-Singleton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_6-Command" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_7-Adapter_Facade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_8-TemplateMethod" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
