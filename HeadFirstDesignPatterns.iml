@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_6-Command" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_7-Adapter_Facade" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_8-TemplateMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_9-Iterator_Composite" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
