@@ -108,5 +108,4 @@ public class GumballMachine {
         result.append("\n");
         return result.toString();
     }
-
 }
