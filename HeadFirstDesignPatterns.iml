@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Head_10-StateOfAffairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_11-Proxy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Head_12-CombiningPatterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Head_13" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="inheritedJdk" />
